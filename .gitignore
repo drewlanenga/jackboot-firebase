@@ -1,0 +1,6 @@
+# ignore mcmc output for now -- way too big
+data/output/mcmc/*
+*.zip
+
+.Rapp.history
+.RData
